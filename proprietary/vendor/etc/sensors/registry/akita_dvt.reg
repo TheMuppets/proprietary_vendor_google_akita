@@ -201,6 +201,7 @@ reg_script=akita_dvt.reg
   long_press_min_node_count=8
   long_press_motion_tolerance_inner=255
   long_press_motion_tolerance_outer=535
+  send_lptw_to_kernel=1
 
 # TBN
 +/tbn
