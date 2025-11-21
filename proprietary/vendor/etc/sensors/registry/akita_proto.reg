@@ -170,6 +170,7 @@ reg_script=akita_proto.reg
   bus_freq_hz=10000000
   spi_mode=0
   spi_word_size=8
+  cs_gpio=67
   gesture_type=3
   intr_id=14
   intr_type=3
