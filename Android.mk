@@ -14,7 +14,7 @@ $(call add-radio-file-sha1-checked,radio/gcf.img,087f78f33c74c80ebeeb9ac5afb0b0e
 $(call add-radio-file-sha1-checked,radio/gsa.img,01925da2b8ce36621ce7fedcc5dd0dcaab692f63)
 $(call add-radio-file-sha1-checked,radio/gsa_bl1.img,3aa0e61ba42f7cb92d331a261b90d69ccb3ff644)
 $(call add-radio-file-sha1-checked,radio/ldfw.img,38eeea462681a5d961eaede68990920e808b691e)
-$(call add-radio-file-sha1-checked,radio/modem.img,40e57c3c0da7b8518479535851e7bed52e60b121)
+$(call add-radio-file-sha1-checked,radio/modem.img,42014f3f1fc9ef8dd484876288e0c0146fdc79fd)
 $(call add-radio-file-sha1-checked,radio/pbl.img,831362e41ee1b0c45dbfaec1f40a30f85ff14138)
 $(call add-radio-file-sha1-checked,radio/tzsw.img,ea5954ab76c756ef34155c085c3b1bc62cf4b88e)
 
