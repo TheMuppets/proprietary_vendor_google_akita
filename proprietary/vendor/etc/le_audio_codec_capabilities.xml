@@ -50,6 +50,7 @@
     <scenario encode="OneChanStereo_32_2" decode="OneChanStereo_32_2"/>
     <scenario encode="OneChanStereo_32_2" decode="OneChanMono_32_2"/>
     <scenario encode="TwoChanStereo_32_2" decode="OneChanMono_32_2"/>
+    <scenario encode="TwoChanStereo_32_2" decode="OneChanMono_16_2"/>
     <scenario encode="OneChanMono_32_2" decode="OneChanMono_32_2"/>
     <!-- broadcast -->
     <scenario encode="invalid" decode="invalid" broadcast="BcastStereo_48_2"/>
@@ -94,4 +95,3 @@
     <strategyConfiguration name="BROADCAST_STEREO" audioLocation="STEREO" connectedDevice="0" channelCount="2"/>
   </strategyConfigurationList>
 </leAudioOffloadSetting>
-
